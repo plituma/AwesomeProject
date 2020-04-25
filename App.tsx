@@ -47,7 +47,7 @@ export default function App() {
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your HI CULO Changes</Text>
+              <Text style={styles.sectionTitle}>See Your SUCK IT! Changes</Text>
               <Text style={styles.sectionDescription}>
                 <ReloadInstructions />
               </Text>
